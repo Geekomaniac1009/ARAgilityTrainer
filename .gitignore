@@ -1,0 +1,21 @@
+﻿# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+
+# Large plugin binaries (Firebase, ARCore, etc.)
+Assets/Firebase/
+Assets/Plugins/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.csproj
+*.sln
+*.user
