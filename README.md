@@ -144,13 +144,9 @@ ARAgilityTrainer/
  ├── ML/
  │   └── sports_train.ipynb
  ├── ProjectSettings/
+ ├── Demos/
+ │   ├── demonstration.mp4
+ │   ├── analysis_output.mp4
+ │   ├── analysis_output.json
  ├── README.md
 ```
-
----
-
-## 📜 License
-
-MIT License / Custom — add your preference.
-
----
